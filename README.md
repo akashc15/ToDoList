@@ -1,3 +1,3 @@
 # ToDoList
 
-#This app is used to collect to do list
+#This app is used to collect to do list. Changes
